@@ -1,7 +1,7 @@
 # MIT-Case
-MIT-Case for ABOUT YOU
+MIT-Case
 
-Files related to ABOUT YOU technical case for the Shop Analyst position
+Files related to project for the Shop Analyst position
 
 Analyst: Jose David Perez 27/06/2021
 
